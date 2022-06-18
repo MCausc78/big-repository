@@ -1,0 +1,3 @@
+# SpigotMC repository
+
+Many plugins.
